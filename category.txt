@@ -4,10 +4,10 @@ big-data
 build-system
 cloud
 containers
-database
 data-driven
 data-engineering
 data-science
+database
 design-patterns
 devops
 embedded
@@ -18,8 +18,10 @@ machine-learning
 math
 message-queue
 methodology
+mobile
 networking
 observability
+observability-and-monitoring
 operating-systems
 practices
 real-time
