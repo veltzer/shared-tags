@@ -16,6 +16,7 @@ fpga
 gpu
 hal
 hardware
+hardware-programming
 intel
 interrupts
 iot

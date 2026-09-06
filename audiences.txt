@@ -7,6 +7,7 @@ data-analysts
 data-architects
 data-engineers
 data-scientists
+dba
 dbas
 developers
 devops
@@ -16,6 +17,7 @@ embedded-engineers
 firmware-developers
 forensics-investigators
 frontend-developers
+it-staff
 java-developers
 legal
 malware-analysts
@@ -26,7 +28,9 @@ network-engineers
 penetration-testers
 performance-engineers
 project-management
+qa
 qa-engineers
+security
 security-engineers
 security-professionals
 senior-developers

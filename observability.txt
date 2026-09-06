@@ -2,5 +2,9 @@ aiops
 alerting
 apm
 distributed-tracing
+grafana
 metrics
 monitoring
+opentelemetry
+prometheus
+tracing

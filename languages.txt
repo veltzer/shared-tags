@@ -13,6 +13,7 @@ c2x
 c99
 clojure
 cobol
+cpp
 crystal
 csharp
 dart
@@ -35,6 +36,7 @@ ocaml
 opencl
 perl
 php
+plpgsql
 plsql
 powershell
 python

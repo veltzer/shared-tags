@@ -9,6 +9,8 @@ apache-nifi
 apache-pulsar
 argo-cd
 aspnet
+auth0
+azure
 backstage
 bazel
 beam
@@ -38,6 +40,7 @@ duckdb
 dynatrace
 earthly
 elasticsearch
+elk
 entity-framework
 extjs
 fastapi
@@ -68,10 +71,13 @@ jest
 jmeter
 jni
 junit5
+jupyter
 jvm
 k6
 kafka
+keycloak
 kibana
+kong
 kubernetes
 kustomize
 lime
@@ -80,6 +86,7 @@ loki
 lucene
 make
 mariadb
+markdown
 maven
 meson
 mlflow
@@ -103,9 +110,11 @@ pandas
 pinecone
 pitest
 podman
+polars
 postgresql
 prefect
 prometheus
+protobuf
 pulumi
 puppet
 pytest
@@ -133,6 +142,7 @@ sqlite
 supabase
 superset
 swagger
+systemd
 tecton
 tekton
 temporal
@@ -146,7 +156,9 @@ u-boot
 unity
 valgrind
 vault
+vi
 victoriametrics
 weaviate
+wireshark
 yocto
 zabbix
