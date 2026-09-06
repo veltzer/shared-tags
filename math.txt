@@ -1,0 +1,13 @@
+bayesian
+calculus
+combinatorics
+descriptive-statistics
+distributions
+estimation
+hypothesis-testing
+inferential-statistics
+linear-algebra
+probability
+random-variables
+regression
+statistics
