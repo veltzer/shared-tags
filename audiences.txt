@@ -27,6 +27,7 @@ ml-engineers
 network-engineers
 penetration-testers
 performance-engineers
+product-managers
 project-management
 qa
 qa-engineers
