@@ -22,6 +22,7 @@ One file per field, one value per line, sorted:
 
 - `level.txt`, `category.txt`, `audiences.txt` -- the core classification
 - `duration_hours*.txt` -- permitted course lengths
+- `duration_minutes.txt` -- permitted lengths of short talks (blurbs)
 - `languages.txt`, `tools.txt`, `concepts.txt`, `practices.txt` -- subject tags
 - the remainder (`databases`, `networking`, `security`, ...) -- topic areas
 
